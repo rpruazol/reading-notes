@@ -12,5 +12,5 @@
 
 ## Table of Contents
 ### 301
-- Read 01 [a link](https://github.com/rpruazol/reading-notes/blob/main/301/read-01.md)
+- [Read 01](https://github.com/rpruazol/reading-notes/blob/main/301/read-01.md)
 - Read 02

@@ -1,7 +1,21 @@
-Add a new page in your reading notes repository, and add your notes.
-Add a link to this new page under the Table of Contents for this course.
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
-Answer each and every question or prompt presented in the assignment above.
-If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.
-Make a section in your notes titled ## Things I want to know more about, and anytime a question arises in your mind, or something catches your curiosity, note it under this heading.
-If you utilize any content directly from the reading sources, be sure to identify what you are quoting, and cite the source.
+# Introduction to React and Components
+
+## Summary - Components and props are core topics when working in React.  They allow you to think about your web application in a more object oriented approach while props is your key to passing Javascript to your components.
+
+What is a “component”?
+> A component is the concept of breaking down a design (website in this case) into multiple pieces that have defined functionality with the purpose of being reusable
+
+What are the characteristics of a component?
+> Components are reusable, well defined, not context specific, extensible, encapsulating, and independent
+
+What is “props” short for?
+> "Props" is short for "properties"
+
+How are props used in React?
+> Props are used to pass information into components, in our case javascript.
+
+What is the flow of props?
+> Props flow one way top down, meaning a parent component can pass it's props to it's child components.  However child components cannot pass props to it's sibling elements nor can they pass props back up to the parent.
+
+
+## Things I want to know more about

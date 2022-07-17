@@ -1,6 +1,7 @@
-# Read-02 Introduction to React and Components
+# Read-02 Readings: State and Props
 
-## Summary 
+## Summary
+State and props are topics that are two tools in React that are used to turn a static website dynamic and scaleable
 
 ## Questions
 What types of things can you pass in the props?

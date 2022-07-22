@@ -1,7 +1,7 @@
 # Read-03 Readings: Passing Functions as Props
 
 ## Summary
-
+Passing functions as props allows child components access to methods in the parent component.  One use case for this is the ability to send data back up to the parent component, and change it's state.
 
 ## Questions
 

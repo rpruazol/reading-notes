@@ -1,4 +1,4 @@
-# Read-05 Readings: Putting it all together
+# Read-06 Readings: Putting it all together
 
 ## Summary
 <hr>

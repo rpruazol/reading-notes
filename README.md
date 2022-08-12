@@ -19,3 +19,5 @@
 - [Read 05](301/read-05.md)
 - [Read 06](301/read-06.md)
 - [Read 07](301/read-07.md)
+- [Read 08](301/read-08.md)
+- [Read 09](301/read-09.md)
